@@ -37,6 +37,12 @@
 
 ---
 
+## Workflow Diagram
+
+![FinSight-agent Workflow](notebooks/workflow.jpg)
+
+---
+
 ## Getting Started
 
 ### Requirements
