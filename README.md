@@ -77,8 +77,7 @@ inputs = {"messages": [HumanMessage(content="Can you check the latest news about
 ## Repository Structure
 ```
 finSight-agent/
-├── finsight/          # Core Python code (state, tools, nodes, workflow, model)
-├── notebooks/         # Full notebook demo
+├── notebooks/         # Full notebook
 │   └── finSight-agent.ipynb
 ├── requirements.txt
 └── README.md
