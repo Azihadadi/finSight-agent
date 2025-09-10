@@ -1,0 +1,9 @@
+# Core Agent and Graph
+langgraph==0.3.34
+langchain==0.3.24
+langchain-openai==0.3.14
+langchain-community==0.3.23
+langchainhub==0.1.21
+
+# Graph visualization (optional, for workflow diagrams)
+pygraphviz==1.14
